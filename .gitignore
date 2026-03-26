@@ -5,3 +5,5 @@ chroma_db/
 quiz_results.db
 temp_*.pdf
 *.pyc
+*.pdf
+*.ipynb
